@@ -1,6 +1,6 @@
 {
   "emps": [
     { "first": "John", "last": "Doe", "email": "john@example.com" },
-    { "first": "Archibald", "last": "Northbottom", "email": "Archibald@example.com" }
+    { "first": "Archibald", "last": "Northbottom", "email": "archibald@example.com" }
   ]
 }
