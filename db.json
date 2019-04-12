@@ -1,6 +1,6 @@
 {
   "emps": [
-    { "first": "John", "last": "Doe", "email": "john@example.com" },
-    { "first": "Archibald", "last": "Northbottom", "email": "archibald@example.com" }
+    { "first": "John", "last": "Doe", "email": "john@example.com", "profile": "<ac:macro ac:name=\"profile-picture\"><ac:parameter ac:name=\"User\">john.doe</ac:parameter></ac:macro>" },
+    { "first": "Archibald", "last": "Northbottom", "email": "archibald@example.com", "profile": "<ac:macro ac:name=\"profile-picture\"><ac:parameter ac:name=\"User\">archibald.northbottom</ac:parameter></ac:macro>" }
   ]
 }
